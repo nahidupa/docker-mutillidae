@@ -1,4 +1,4 @@
-ROM ubuntu:15.04
+FROM ubuntu:15.04
 MAINTAINER nahidul kibria <nahidupa@gmail.com>
 
 RUN apt-get update \
